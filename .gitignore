@@ -1,0 +1,18 @@
+# Tools & Simulation Artifacts
+*.jou
+*.log
+*.pb
+*.wdb
+*.wcfg
+*.vcd
+*.str
+*.dcp
+*.bit
+*.bin
+*.vvp
+sim_build/
+.Xil/
+vivado_pid*.str
+vivado_pid*.zip
+clock_sim
+clock_waves.vcd
